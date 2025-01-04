@@ -1,0 +1,12 @@
+{
+  "name": "flexbox",
+  "version": "1.0.0",
+  "description": "<img src=\"./img/ReadMe/banner.png\" style=\"width: 100%; height: auto;\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
